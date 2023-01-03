@@ -1,0 +1,9 @@
+Bloco: 1 - Info Criptografada: Practicing Blockchain - Registro: 9d63113999dcaf495a596613e42ff4df717a0a9d053b41440e26f868b1f823fc
+Bloco: 2 - Info Criptografada: Python - Registro: d803ae3eaf61e94422d6530f49a8986bd5158f61ed1cc71ff89709bc234e5fea
+Bloco: 3 - Info Criptografada: Developer - Registro: e989f61574a4b60c53d2279e126de272ddffbd6f0531385701227c26590f3d4b
+Bloco: 4 - Info Criptografada: Luis Fernando - Registro: dc3abd2287df56e556e1dd4dab07933676e6c3562ee122fda6d2b533c37387b5
+Bloco: 5 - Info Criptografada: Dev - Registro: 70774fc61bce5424eef0c88e370d2e1b04a34ebe60af7bf3d1f7090f9de90557
+Bloco: 6 - Info Criptografada: Learning Every DAy - Registro: ba882d0f00bd443b27ad3b566ba7b351cb1d83b40af83667025e673472a59b3a
+Bloco: 7 - Info Criptografada: Test - Registro: 67cac75cb7e40c858e64e530226eb533fa1dd3232d9487b764f4bf61deb2fd19
+Bloco: 8 - Info Criptografada: Testing Len - Registro: 5072f3b275a660ff3e3845196b304b101390d413a71ee57eef9f9e6482e8e487
+Bloco: 9 - Info Criptografada: Python - Registro: f9a27e399f12d0ce722a6e9321c203906674bb25b45f4f6137c7991aa14b8838
