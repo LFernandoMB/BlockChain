@@ -10,7 +10,7 @@
 - Cloud storage
 - Supply Chain
 ## 💻 The Project Working
-![](../../blockchin.gif)
+![blockchin](https://user-images.githubusercontent.com/91624923/210435277-5ea5df6d-dbc4-4b04-a1b8-a9c147a816cb.gif)
 ## ⚙ Technologies Used
 - Python
   - Hashlib
