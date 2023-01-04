@@ -14,3 +14,5 @@
 ## ⚙ Technologies Used
 - Python
   - Hashlib
+## Certificate of completion
+![image](https://user-images.githubusercontent.com/91624923/210641342-572db3c8-780b-4cc0-b4e1-304314667071.png)
